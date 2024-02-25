@@ -1,0 +1,10 @@
+name: object_detection
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
